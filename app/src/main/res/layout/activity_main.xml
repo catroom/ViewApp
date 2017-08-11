@@ -35,4 +35,23 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="贝塞尔曲线3阶" />
+
+    <Button
+        android:layout_gravity="center_horizontal"
+        android:onClick="rool3D"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3DCamera" />
+    <Button
+        android:layout_gravity="center_horizontal"
+        android:onClick="Spring"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="弹簧动画" />
+    <Button
+        android:layout_gravity="center_horizontal"
+        android:onClick="rebound"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="弹簧动画2" />
 </LinearLayout>

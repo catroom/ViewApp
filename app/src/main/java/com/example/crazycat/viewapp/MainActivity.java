@@ -27,4 +27,13 @@ public class MainActivity extends AppCompatActivity {
     public void Bezier3(View view){
         startActivity(new Intent(this,Bezier3Activity.class));
     }
+    public void rool3D(View view){
+        startActivity(new Intent(this,Rool3DActivity.class));
+    }
+    public void rebound(View view){
+        startActivity(new Intent(this,ReboundActivity.class));
+    }
+    public void Spring(View view){
+        startActivity(new Intent(this,SpringActivity.class));
+    }
 }

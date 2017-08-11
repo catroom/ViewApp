@@ -18,7 +18,10 @@
         <activity android:name=".RadarviewActivity" />
         <activity android:name=".PieViewActivitty" />
         <activity android:name=".BezierActivitty" />
-        <activity android:name=".Bezier3Activity"></activity>
+        <activity android:name=".Bezier3Activity" />
+        <activity android:name=".Rool3DActivity" />
+        <activity android:name=".SpringActivity" />
+        <activity android:name=".ReboundActivity"></activity>
     </application>
 
 </manifest>
