@@ -8,20 +8,20 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".activity.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".RadarviewActivity" />
-        <activity android:name=".PieViewActivitty" />
-        <activity android:name=".BezierActivitty" />
-        <activity android:name=".Bezier3Activity" />
-        <activity android:name=".Rool3DActivity" />
-        <activity android:name=".SpringActivity" />
-        <activity android:name=".ReboundActivity"></activity>
+        <activity android:name=".activity.RadarviewActivity" />
+        <activity android:name=".activity.PieViewActivitty" />
+        <activity android:name=".activity.BezierActivitty" />
+        <activity android:name=".activity.Bezier3Activity" />
+        <activity android:name=".activity.Rool3DActivity" />
+        <activity android:name=".activity.SpringActivity" />
+        <activity android:name=".activity.ReboundActivity"></activity>
     </application>
 
 </manifest>

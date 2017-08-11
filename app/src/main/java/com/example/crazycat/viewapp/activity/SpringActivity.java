@@ -1,4 +1,4 @@
-package com.example.crazycat.viewapp;
+package com.example.crazycat.viewapp.activity;
 
 import android.support.animation.SpringAnimation;
 import android.support.animation.SpringForce;
@@ -9,6 +9,8 @@ import android.view.VelocityTracker;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.SeekBar;
+
+import com.example.crazycat.viewapp.R;
 
 public class SpringActivity extends AppCompatActivity {
     private float downX, downY;

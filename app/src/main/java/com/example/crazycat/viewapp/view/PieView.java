@@ -1,4 +1,4 @@
-package com.example.crazycat.viewapp;
+package com.example.crazycat.viewapp.view;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -7,6 +7,8 @@ import android.graphics.RectF;
 import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.view.View;
+
+import com.example.crazycat.viewapp.bean.PieData;
 
 import java.util.ArrayList;
 

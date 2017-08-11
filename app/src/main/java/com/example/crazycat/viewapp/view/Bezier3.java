@@ -1,4 +1,4 @@
-package com.example.crazycat.viewapp;
+package com.example.crazycat.viewapp.view;
 
 import android.content.Context;
 import android.graphics.Canvas;

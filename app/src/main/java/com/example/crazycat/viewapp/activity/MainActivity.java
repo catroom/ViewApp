@@ -1,11 +1,11 @@
-package com.example.crazycat.viewapp;
+package com.example.crazycat.viewapp.activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-import java.util.ArrayList;
+import com.example.crazycat.viewapp.R;
 
 public class MainActivity extends AppCompatActivity {
 

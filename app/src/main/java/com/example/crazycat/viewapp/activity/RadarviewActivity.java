@@ -1,8 +1,11 @@
-package com.example.crazycat.viewapp;
+package com.example.crazycat.viewapp.activity;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
+
+import com.example.crazycat.viewapp.R;
+import com.example.crazycat.viewapp.view.RadarView;
 
 /**
  * Created by crazycat on 2017/7/6.

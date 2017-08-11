@@ -1,4 +1,4 @@
-package com.example.crazycat.viewapp;
+package com.example.crazycat.viewapp.animation;
 
 import android.content.Context;
 import android.graphics.Camera;

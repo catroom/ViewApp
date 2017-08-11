@@ -1,4 +1,4 @@
-package com.example.crazycat.viewapp;
+package com.example.crazycat.viewapp.bean;
 
 import android.support.annotation.Nullable;
 

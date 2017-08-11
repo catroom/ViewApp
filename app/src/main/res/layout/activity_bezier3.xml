@@ -4,8 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.crazycat.viewapp.Bezier3Activity">
-<com.example.crazycat.viewapp.Bezier3
+    tools:context="com.example.crazycat.viewapp.activity.Bezier3Activity">
+   <com.example.crazycat.viewapp.view.Bezier3
+       android:id="@+id/bezier3"
     android:layout_width="match_parent"
     android:layout_height="match_parent" />
 </android.support.constraint.ConstraintLayout>

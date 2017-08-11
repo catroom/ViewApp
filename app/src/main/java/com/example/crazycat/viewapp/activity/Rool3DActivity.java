@@ -1,10 +1,13 @@
-package com.example.crazycat.viewapp;
+package com.example.crazycat.viewapp.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.view.animation.LinearInterpolator;
 import android.widget.ImageView;
+
+import com.example.crazycat.viewapp.R;
+import com.example.crazycat.viewapp.animation.Rotate3dAnimation;
 
 public class Rool3DActivity extends AppCompatActivity {
 

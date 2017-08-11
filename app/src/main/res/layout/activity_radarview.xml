@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <com.example.crazycat.viewapp.RadarView
+    <com.example.crazycat.viewapp.view.RadarView
         android:id="@+id/view"
         android:layout_gravity="center|center_vertical"
         android:layout_width="300dp"
