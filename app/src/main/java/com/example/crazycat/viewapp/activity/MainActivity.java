@@ -33,7 +33,22 @@ public class MainActivity extends AppCompatActivity {
     public void rebound(View view){
         startActivity(new Intent(this,ReboundActivity.class));
     }
+    public void progressbar(View view){
+        startActivity(new Intent(this,SeekBarActivity.class));
+    }
     public void Spring(View view){
         startActivity(new Intent(this,SpringActivity.class));
+    }
+    public void svg(View view){
+        startActivity(new Intent(this,SVGActivity.class));
+    }
+    public void volume(View view){
+        startActivity(new Intent(this,VolumeViewActivity.class));
+    }
+    public void pathMeasure(View view){
+        startActivity(new Intent(this,PathMeasureActivity.class));
+    }
+    public void diy(View view){
+        startActivity(new Intent(this,DiyActivity.class));
     }
 }

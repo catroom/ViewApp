@@ -21,7 +21,14 @@
         <activity android:name=".activity.Bezier3Activity" />
         <activity android:name=".activity.Rool3DActivity" />
         <activity android:name=".activity.SpringActivity" />
-        <activity android:name=".activity.ReboundActivity"></activity>
+        <activity android:name=".activity.ReboundActivity" />
+        <activity android:name=".activity.SeekBarActivity" />
+        <activity android:name=".activity.SVGActivity" />
+        <activity android:name=".activity.VolumeViewActivity" />
+        <activity android:name=".activity.PaTH" />
+        <activity android:name=".activity.PathMeasureActivity" />
+        <activity android:name=".activity.DiyActivity" />
+        <activity android:name=".activity.VolumeActivity"></activity>
     </application>
 
 </manifest>
